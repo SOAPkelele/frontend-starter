@@ -14,6 +14,15 @@ module.exports = {
           dark: '#FA6641',
           light: '#EAE100',
         },
+        telegram: {
+          bg: 'var(--telegram-bg-color)',
+          text: 'var(--telegram-text-color)',
+          hint: 'var(--telegram-hint-color)',
+          link: 'var(--telegram-link-color)',
+          button: 'var(--telegram-button-color)',
+          button_text: 'var(--telegram-button-text-color)',
+          secondary_bg: 'var(--telegram-secondary-bg-color)',
+        },
       },
       borderRadius: {
         avatar: '6rem',
